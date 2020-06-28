@@ -80,6 +80,7 @@ Check file hashes, scan with virustotal, and more.
 
 ---
 
-# Context menu
+# Context Menu
 ![image](https://github.com/BatchSource/FileChecker/blob/master/img/contextmenu.png)
 
+---
