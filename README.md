@@ -1,7 +1,19 @@
 # FileChecker
 FileChecker is a customizable program that can be used to scan files in VirusTotal, view file hashes, view file properties, convert files, and more.
 
-## [Download v1.0 (Beta)](https://www.dropbox.com/s/q68xjrfvdd9i876/FileChecker%20v1.0%20Installer%20%28x64%29.exe?dl=1)
+## [Download v1.1 (Beta)](https://www.dropbox.com/s/94jw7kyougjolso/FileChecker%20v1.1%20Installer%20%28x64%29.exe?dl=1)
+### [Download v1.0 (Beta)](https://www.dropbox.com/s/q68xjrfvdd9i876/FileChecker%20v1.0%20Installer%20%28x64%29.exe?dl=1)
+
+---
+
+# What's New
+
+<hr width=50>
+
+### `v1.1`
+
+- Fixed virustotal crashing
+- Other bugfixes
 
 ---
 
